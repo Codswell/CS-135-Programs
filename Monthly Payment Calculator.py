@@ -1,7 +1,7 @@
 #Shelby Stanly
 #CS 135 03
 #Professor Puckett
-#Exam 2 Question 2 
+#Monthly Payment Claculator 
 git push origin main
 import math
 
