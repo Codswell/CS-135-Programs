@@ -2,6 +2,7 @@
 #CS 135 03
 #Professor Puckett
 #Exam 2 Question 2 
+git push origin main
 import math
 
 #Title
